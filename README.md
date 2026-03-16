@@ -2,11 +2,11 @@ Hey, I'm Alejandro Sepulveda, a Computer Science student at DePaul University fo
 
 
 Fun facts:
--Love the outdoors
--I got 2 cats
--I love playing sports
--I love to learn new stuff
--Love me a good game of poker
+#-Love the outdoors
+#-I got 2 cats
+#-I love playing sports
+#-I love to learn new stuff
+#-Love me a good game of poker
 
 <!--
 **Asepulveda735/Asepulveda735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
