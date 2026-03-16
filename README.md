@@ -1,12 +1,18 @@
 Hey, I'm Alejandro Sepulveda, a Computer Science student at DePaul University focusing on AI development. I'm currently building an LLM for fishing to help analyze conditions and to help me catch more fish. I enjoy working with Python and Java while learning more about LLMs and AI systems. Feel free to connect with me through LinkedIn or email.
 
+#
+  
 
 Fun facts:
-#-Love the outdoors
-#-I got 2 cats
-#-I love playing sports
-#-I love to learn new stuff
-#-Love me a good game of poker
+-Love the outdoors
+
+-I got 2 cats
+
+-I love playing sports
+
+-I love to learn new stuff
+
+-Love me a good game of poker
 
 <!--
 **Asepulveda735/Asepulveda735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
