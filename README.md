@@ -4,6 +4,7 @@ Hey, I'm Alejandro Sepulveda, a Computer Science student at DePaul University fo
   
 
 Fun facts:
+
 -Love the outdoors
 
 -I got 2 cats
